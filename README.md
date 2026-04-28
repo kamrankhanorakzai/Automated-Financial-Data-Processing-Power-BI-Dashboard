@@ -121,7 +121,8 @@ LTV =
 ## 🎥 Project Demo (YouTube)
 
 
-[![Watch the demo](https://youtu.be/ufeEwpHsgCc?si=cnf6WxPdomZwxfUS)]
+[Watch the demo]
+(https://youtube.com/watch?v=cnf6WxPdomZwxfUS)
 
 ---
 
@@ -134,7 +135,7 @@ LTV =
 * Scheduled Execution
 * Dashboard Auto Refresh
 
-👉 Watch here: https://youtube.com/watch?v=YOUR_AUTOMATION_VIDEO
+👉 Watch here: https://youtu.be/ufeEwpHsgCc?si=GwX6nTGy-n_rgebL
 
 ---
 
