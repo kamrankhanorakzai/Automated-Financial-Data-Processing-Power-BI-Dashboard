@@ -120,9 +120,7 @@ LTV =
 
 ## 🎥 Project Demo (YouTube)
 
-
-[Watch the demo]
-(https://youtube.com/watch?v=cnf6WxPdomZwxfUS)
+[![Watch the demo](https://img.youtube.com/vi/ufeEwpHsgCc/0.jpg)](https://youtube.com/watch?v=ufeEwpHsgCc)
 
 ---
 
