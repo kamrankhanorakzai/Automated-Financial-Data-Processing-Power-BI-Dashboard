@@ -110,7 +110,7 @@ LTV =
 
 ## 📷 Dashboard Screenshots
 
-> *(Replace with your images)*
+
 
 ![Dashboard 1](Dashboard/img1.png)
 ![Dashboard 2](Dashboard/img2.png)
@@ -126,7 +126,6 @@ LTV =
 
 ## 🤖 Automation Workflow Video
 
-> *(Explain how you automated using your own YouTube video)*
 
 * Automated Email Extraction
 * File Merging & Cleaning Scripts
@@ -142,7 +141,7 @@ LTV =
 * **Python** (Data Processing & Automation)
 * **Pandas** (Data Cleaning)
 * **Power BI** (Visualization)
-* **Excel / CSV** (Data Sources)
+* **Excel** (Data Sources)
 * **Automation Scripts** (Scheduling & Execution)
 
 ---
@@ -150,7 +149,6 @@ LTV =
 ## 📈 Business Impact
 
 * ⏳ Reduced processing time by **80%+**
-* 💰 Saved **$12,000/month**
 * 📊 Improved decision-making with real-time insights
 * 🚀 Increased overall team productivity
 
